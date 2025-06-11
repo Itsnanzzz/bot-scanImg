@@ -70,7 +70,7 @@ async def handle_image(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     # Ganti TOKEN dengan token bot Anda
-    TOKEN = "7419253164:AAFXQySdqrQrp5bgBpZ1_6Mwod4R6hg3LdA"
+    TOKEN = "<TOKEN BOT TELEGRAM>"
     
     # Buat aplikasi
     application = Application.builder().token(TOKEN).build()
