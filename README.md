@@ -15,6 +15,9 @@ Program ini dapat memindai teks dari gambar menggunakan teknologi OCR (Optical C
 ## Instalasi
 
 1. Clone repositori ini
+   ```
+   git clone https://github.com/Itsnanzzz/bot-scanImg
+   ```
 2. Instal dependensi yang diperlukan:
    ```
    pip install -r requirements.txt
